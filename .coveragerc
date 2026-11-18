@@ -1,0 +1,4 @@
+[run]
+branch = True
+source = telemetry
+parallel = True

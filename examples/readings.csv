@@ -1,0 +1,4 @@
+machine,timestamp,value
+press,10,20
+oven,10,80
+press,20,23
